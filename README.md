@@ -13,11 +13,16 @@ The dashboard is **based on my LinkedIn profile**, transforming a traditional re
 ## 📂 Project Structure  
 
 ```bash
-powerbi-cv/
-│── assets/               
-│── cv-dashboard.pbix    
-│── cv-dashboard.jpg      
-│── template.png  
+./powerbi-cv
+├── README.md
+├── assets
+│   ├── icons
+│   │   ├── certificate.svg
+│   │   ├── experience.svg
+│   │   └── project.svg
+│   └── template.png
+├── cv-dashboard.jpg
+└── cv-dashboard.pbix
 ```
 
 ## 🚀 Features  

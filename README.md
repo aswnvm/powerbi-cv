@@ -1,6 +1,7 @@
 # Power BI CV Dashboard  
 
 ![CV Dashboard Preview](./cv-dashboard.jpg)  
+
 ![CV Dashboard Preview](https://app.powerbi.com/view?r=eyJrIjoiZmRlZTJhZjEtOGY3ZS00ZDliLWJjODctMDNmZjVlYmZhOGM2IiwidCI6IjBmZGYwYzdmLTA2OWMtNDE0YS05MTM2LWQwZjRlYmIzMDliOSJ9)  
 
 ## 📌 Overview  
@@ -13,10 +14,10 @@ The dashboard is **based on my LinkedIn profile**, transforming a traditional re
 
 ```bash
 powerbi-cv/
-│── assets/               # Supporting images, icons, and design elements
-│── cv-dashboard.pbix     # Main Power BI dashboard file
-│── cv-dashboard.jpg      # Dashboard preview image (for README and sharing)
-│── template.png          # Design template/mockup reference
+│── assets/               
+│── cv-dashboard.pbix    
+│── cv-dashboard.jpg      
+│── template.png          
 
 
 ## 🚀 Features  
